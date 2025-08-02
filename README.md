@@ -19,7 +19,7 @@
 - Facial expressions are one of the most important parts of human communication. The ability to recognize facial expressions enables numerous applications in human-computer interaction and other areas. Diverse types of deep learning models have been utilized or specifically designed for Facial Expression Recognition (FER) tasks. Our study aims to better understand and compare different existing deep learning models used in FER. We seek to analyze the impact of various factors, including architectural differences, data augmentation, transfer learning, class balancing, and ensembling, on model performance. Additionally, we leveraged visualization techniques to identify facial regions that contribute to emotion recognition.
 
 🌱: Grad-CAM identified key regions for facial expressions
-<img width="831" height="418" alt="neutral" src="https://github.com/user-attachments/assets/4f77da62-8622-43e4-8daf-825879bc96d5" />
-<img width="831" height="418" alt="fear" src="https://github.com/user-attachments/assets/ca435658-92c2-4d76-b871-b774f9f8fdd0" />
-<img width="831" height="418" alt="Surprise" src="https://github.com/user-attachments/assets/f37a5ad4-63f7-4b58-a973-adebdba76707" />
-<img width="831" height="418" alt="happy" src="https://github.com/user-attachments/assets/ac6871e9-e921-4f45-8de5-111ead56d428" />
+<img width="416" height="209" alt="neutral" src="https://github.com/user-attachments/assets/4f77da62-8622-43e4-8daf-825879bc96d5" />
+<img width="416" height="209" alt="fear" src="https://github.com/user-attachments/assets/ca435658-92c2-4d76-b871-b774f9f8fdd0" />
+<img width="416" height="209" alt="Surprise" src="https://github.com/user-attachments/assets/f37a5ad4-63f7-4b58-a973-adebdba76707" />
+<img width="416" height="209" alt="happy" src="https://github.com/user-attachments/assets/ac6871e9-e921-4f45-8de5-111ead56d428" />
